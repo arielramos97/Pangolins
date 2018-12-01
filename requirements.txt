@@ -1,0 +1,9 @@
+-Your input is prefixed by ‘>’,
+and the computer’s output is in bold text.
+
+-“leaf nodes” are always the names of objects
+
+-“non-leaf nodes” are always questions, and they
+always point to two other nodes, one for “yes” and one for “no”
+
+-handles ‘bad’ inputs
